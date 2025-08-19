@@ -35,7 +35,7 @@
 ---
 
 ## 🚀 Featured Projects  
-🔹 [Project 1 – Full Stack Web App](#)  
+🔹 [Project 1 – Full Stack Web App](https://www.google.com/)  
 🔹 [Project 2 – Machine Learning Model](#)  
 🔹 [Project 3 – API Development](#)  
 
