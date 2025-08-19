@@ -35,7 +35,7 @@
 ---
 
 ## 🚀 Featured Projects  
-🔹 [Project 1 – Full Stack Web App](https://www.google.com/)  
+🔹 [Project 1 – Full Stack Web App](https://nitesh-shaw-098.github.io/m-indicator-app/)  
 🔹 [Project 2 – Machine Learning Model](#)  
 🔹 [Project 3 – API Development](#)  
 
